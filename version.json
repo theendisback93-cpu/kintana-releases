@@ -1,0 +1,13 @@
+{
+  "version": "1.3.0",
+  "notes": "Profils et profil enfant, fiches en français, reprise et Ma liste synchronisées avec le compte Stremio, écran « Pas de connexion », accueil affiché tout de suite, mises à jour depuis l'appli.",
+  "tv": {
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.3.0/Kintana-TV.apk",
+    "sha256": "da59b526a917235076420a89c102a3c2f979209d08e300c103642079cd04225e",
+    "size": 20735946
+  },
+  "pc": {
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.3.0/Kintana-Windows.zip",
+    "page": "https://github.com/theendisback93-cpu/kintana-releases/releases/latest"
+  }
+}
