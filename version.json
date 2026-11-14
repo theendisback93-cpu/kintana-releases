@@ -1,13 +1,13 @@
 {
-  "version": "1.4.2",
-  "notes": "Fiabilité : la lecture ne démarre plus quand Kintana est en arrière-plan, l'écran ne reste allumé que pendant la lecture, un torrent abandonné s'arrête tout seul, mises à jour vérifiées, code du profil enfant protégé, copie de secours des données, rapport de diagnostic dans Réglages. L'appli TV passe de 20 à 11 Mo.",
+  "version": "1.5.0",
+  "notes": "Kintana en français avec ta clé TMDB (gratuite) : fiches, épisodes et titres des affiches en français, recherche par titre français, filmographies avec photo, recommandations, profil enfant par âge conseillé. Sur la TV, « Saisir depuis le téléphone » : un QR code pour taper ou coller la clé, une adresse d'add-on ou une recherche depuis ton téléphone.",
   "tv": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.2/Kintana-TV.apk",
-    "sha256": "1244e8e482432cebbd8e273c5a7d3f04b8dc4fc89c5232c72190b6221ab026fd",
-    "size": 11630393
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.0/Kintana-TV.apk",
+    "sha256": "154a4d609fc4118c961983d2334836ea88938751282fad92f2deac4861b6a952",
+    "size": 11646917
   },
   "pc": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.2/Kintana-Windows.zip",
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.0/Kintana-Windows.zip",
     "page": "https://github.com/theendisback93-cpu/kintana-releases/releases/latest"
   }
 }
