@@ -1,13 +1,13 @@
 {
-  "version": "1.4.0",
-  "notes": "Recherche avec le clavier de Kintana et à la voix, nouveaux épisodes, Top 10, « Parce que tu as regardé… », nouveautés, titres similaires, « À regarder ensuite », distribution cliquable.",
+  "version": "1.4.1",
+  "notes": "Corrections : « Qui regarde ? » disparaît après le choix du profil, profil enfant limité aux titres pour toute la famille (recherche et Ma liste réparées, bandes-annonces masquées), synchro Stremio plus fiable, message « Pas de réponse » avec « Réessayer », Retour et filtres de l'Explorer.",
   "tv": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.0/Kintana-TV.apk",
-    "sha256": "3ce20f2772ab42a3e1df3605a7541a6b87e85f944322d8c961467f59d9fe4c9f",
-    "size": 20748234
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.1/Kintana-TV.apk",
+    "sha256": "3baad623df11f3ad70f79d7360642cc88913334395a7179c352c60c76c50a7cd",
+    "size": 20637642
   },
   "pc": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.0/Kintana-Windows.zip",
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.1/Kintana-Windows.zip",
     "page": "https://github.com/theendisback93-cpu/kintana-releases/releases/latest"
   }
 }
