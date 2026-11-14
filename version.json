@@ -1,13 +1,13 @@
 {
-  "version": "1.4.1",
-  "notes": "Corrections : « Qui regarde ? » disparaît après le choix du profil, profil enfant limité aux titres pour toute la famille (recherche et Ma liste réparées, bandes-annonces masquées), synchro Stremio plus fiable, message « Pas de réponse » avec « Réessayer », Retour et filtres de l'Explorer.",
+  "version": "1.4.2",
+  "notes": "Fiabilité : la lecture ne démarre plus quand Kintana est en arrière-plan, l'écran ne reste allumé que pendant la lecture, un torrent abandonné s'arrête tout seul, mises à jour vérifiées, code du profil enfant protégé, copie de secours des données, rapport de diagnostic dans Réglages. L'appli TV passe de 20 à 11 Mo.",
   "tv": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.1/Kintana-TV.apk",
-    "sha256": "3baad623df11f3ad70f79d7360642cc88913334395a7179c352c60c76c50a7cd",
-    "size": 20637642
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.2/Kintana-TV.apk",
+    "sha256": "1244e8e482432cebbd8e273c5a7d3f04b8dc4fc89c5232c72190b6221ab026fd",
+    "size": 11630393
   },
   "pc": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.1/Kintana-Windows.zip",
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.4.2/Kintana-Windows.zip",
     "page": "https://github.com/theendisback93-cpu/kintana-releases/releases/latest"
   }
 }
