@@ -1,13 +1,13 @@
 {
-  "version": "1.5.2",
-  "notes": "Le lecteur conforté : liste des épisodes dans le lecteur, recul de 10 secondes immédiat, sous-titres de la vidéo avec leurs italiques, leur place et leurs images. Deux réglages à l'essai, désactivés au départ : son DTS et TrueHD décodés par Kintana, image pendant le déplacement.",
+  "version": "1.5.3",
+  "notes": "L'interface revue sur la TV : première rangée visible en entier, résultats de recherche à l'écran dès qu'on tape, Réglages en deux volets, barre du haut et petits textes plus lisibles. Corrections : plus de « null » dans Explorer, bandeau du bon type sur Films et Séries, pays en français. Le lecteur n'est pas touché.",
   "tv": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.2/Kintana-TV.apk",
-    "sha256": "ad9facc5288e9d4133f5b369fcf154d53d314ae1cf7405c93f8ae10908b34d78",
-    "size": 12662877
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.3/Kintana-TV.apk",
+    "sha256": "378c707954bb54ee919df8c12e2ec48e6c09b0110bcc0d3e656b8a8ffe7bf480",
+    "size": 12666973
   },
   "pc": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.2/Kintana-Windows.zip",
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.3/Kintana-Windows.zip",
     "page": "https://github.com/theendisback93-cpu/kintana-releases/releases/latest"
   }
 }
