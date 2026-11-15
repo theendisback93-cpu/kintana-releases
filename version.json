@@ -1,13 +1,13 @@
 {
-  "version": "1.5.1",
-  "notes": "Le lecteur, revu : les commandes s'effacent toutes seules, une attente du réseau n'est plus prise pour une pause, vitesse de lecture, apparence des sous-titres réglable dans le lecteur, écran de pause avec le résumé et l'heure de fin, repères d'intro et de générique sur la barre, épisode suivant sans attente.",
+  "version": "1.5.2",
+  "notes": "Le lecteur conforté : liste des épisodes dans le lecteur, recul de 10 secondes immédiat, sous-titres de la vidéo avec leurs italiques, leur place et leurs images. Deux réglages à l'essai, désactivés au départ : son DTS et TrueHD décodés par Kintana, image pendant le déplacement.",
   "tv": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.1/Kintana-TV.apk",
-    "sha256": "ef6619049312eaae58a095d3545b6863cddb9fc67cb4ac22a726b929ca8a57fe",
-    "size": 11655109
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.2/Kintana-TV.apk",
+    "sha256": "ad9facc5288e9d4133f5b369fcf154d53d314ae1cf7405c93f8ae10908b34d78",
+    "size": 12662877
   },
   "pc": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.1/Kintana-Windows.zip",
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.2/Kintana-Windows.zip",
     "page": "https://github.com/theendisback93-cpu/kintana-releases/releases/latest"
   }
 }
