@@ -1,13 +1,13 @@
 {
-  "version": "1.5.0",
-  "notes": "Kintana en français avec ta clé TMDB (gratuite) : fiches, épisodes et titres des affiches en français, recherche par titre français, filmographies avec photo, recommandations, profil enfant par âge conseillé. Sur la TV, « Saisir depuis le téléphone » : un QR code pour taper ou coller la clé, une adresse d'add-on ou une recherche depuis ton téléphone.",
+  "version": "1.5.1",
+  "notes": "Le lecteur, revu : les commandes s'effacent toutes seules, une attente du réseau n'est plus prise pour une pause, vitesse de lecture, apparence des sous-titres réglable dans le lecteur, écran de pause avec le résumé et l'heure de fin, repères d'intro et de générique sur la barre, épisode suivant sans attente.",
   "tv": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.0/Kintana-TV.apk",
-    "sha256": "154a4d609fc4118c961983d2334836ea88938751282fad92f2deac4861b6a952",
-    "size": 11646917
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.1/Kintana-TV.apk",
+    "sha256": "ef6619049312eaae58a095d3545b6863cddb9fc67cb4ac22a726b929ca8a57fe",
+    "size": 11655109
   },
   "pc": {
-    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.0/Kintana-Windows.zip",
+    "url": "https://github.com/theendisback93-cpu/kintana-releases/releases/download/v1.5.1/Kintana-Windows.zip",
     "page": "https://github.com/theendisback93-cpu/kintana-releases/releases/latest"
   }
 }
